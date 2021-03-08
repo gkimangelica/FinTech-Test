@@ -29,3 +29,6 @@ _NOTE: Codes are auto-generated from Talend Open Stidio which was used for devel
 ---Extract 0.1
 ---Transform 0.1
 ---DataMart 0.1
+
+EXTRACT folder containes the output of the loaded data from the Excel file.
+TRANSFORM folder contains the output of the Transform and DataMart jobs.
