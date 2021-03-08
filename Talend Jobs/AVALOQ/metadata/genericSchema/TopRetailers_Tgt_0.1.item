@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_WkL0on8vEeuHec-SJq6IfA" comment="connectionComment" label="connectionLabel" dataPackage="_WkL0o38vEeuHec-SJq6IfA"/>
+  <TalendMetadata:GenericPackage xmi:id="_WkL0o38vEeuHec-SJq6IfA" dataManager="_WkL0on8vEeuHec-SJq6IfA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_WkL0pH8vEeuHec-SJq6IfA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WkL0pX8vEeuHec-SJq6IfA" name="Company" id="484" label="Company" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_WkL0pn8vEeuHec-SJq6IfA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WkL0p38vEeuHec-SJq6IfA" name="Sales" id="485" label="Sales" length="-1" precision="-1" sourceType="" talendType="id_Float" nullable="false">
+        <initialValue xmi:id="_WkL0qH8vEeuHec-SJq6IfA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WkL0qX8vEeuHec-SJq6IfA" name="Stores" id="486" label="Stores" length="-1" precision="-1" sourceType="" talendType="id_Integer" nullable="false">
+        <initialValue xmi:id="_WkL0qn8vEeuHec-SJq6IfA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WkL0q38vEeuHec-SJq6IfA" name="AvgSalesStore" id="487" label="AvgSalesStore" length="-1" precision="-1" sourceType="" talendType="id_Float" nullable="false">
+        <initialValue xmi:id="_WkL0rH8vEeuHec-SJq6IfA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WkL0rX8vEeuHec-SJq6IfA" name="StoreCountGrowth" id="488" label="StoreCountGrowth" length="-1" precision="-1" sourceType="" talendType="id_Float" nullable="false">
+        <initialValue xmi:id="_WkL0rn8vEeuHec-SJq6IfA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WkL0r38vEeuHec-SJq6IfA" name="Category" id="489" label="Category" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_WkL0sH8vEeuHec-SJq6IfA"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
