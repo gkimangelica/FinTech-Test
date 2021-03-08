@@ -23,8 +23,9 @@ _NOTE: Codes are auto-generated from Talend Open Stidio which was used for devel
 1. Download Talend Open Studio for Big Data here: https://www.talend.com/products/big-data/big-data-open-studio/
 2. For the purposes of the excercise, only local file system was used as source and target.
 3. Run TOS_BD-win-x86_64 from the TOS_BD-20200219_1130-V7.3.1 after downloading the software.
-4. Import the talend.project from Talend jobs folder.
-5. Run the job on the same orders stated below OR run the Workflow 0.1.
+4. Download Talend jobs folder onyour local machine.
+5. Import the talend.project from Talend jobs folder from your local machine.
+6. Run the job on the same orders stated below OR run the Workflow 0.1.
 ---Extract 0.1
 ---Transform 0.1
 ---DataMart 0.1
