@@ -16,7 +16,7 @@ Save data in your local file system.
 ---Workflow_TEST.java  (Data Pipeline)
 
 2. The code should be run accroding to the same order stated above.
-_NOTE: Codes are auto-generated from Talend Open Stidio which was used for development of the pipeline_
+_NOTE: Codes are auto-generated from Talend Open Studio which was used for development of the pipeline_
 
 **Option 2: RUN USING TALEND OPEN STUDIO**
 
@@ -32,3 +32,5 @@ _NOTE: Codes are auto-generated from Talend Open Stidio which was used for devel
 
 EXTRACT folder containes the output of the loaded data from the Excel file.
 TRANSFORM folder contains the output of the Transform and DataMart jobs.
+
+For Power BI Dashboard, the template can be found in Power BI folder.
